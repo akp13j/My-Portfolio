@@ -2,13 +2,16 @@
 
 A polished, responsive personal portfolio for Aung Kyaw Phyo.
 
-## Included
-- Responsive portfolio UI
-- Hero, About, Experience, Work, Skills and Contact sections
-- Animated reveal interactions
-- Mobile navigation
-- Scroll progress indicator
-- Featured Interactive Data Studio Training project
-
-## Customize
-Replace the placeholder career history and project cards with verified details before publishing as a professional profile.
+What I improved
+✨ More premium, modern visual system
+🟠 Stronger orange/black accent treatment
+🌐 Subtle grid + radial background in the hero
+💎 Rounded, elevated project cards with shadows
+🎈 Animated floating orb in the hero card
+🧭 Active navigation highlighting while scrolling
+📱 Improved mobile navigation styling
+🪄 Smoother hover and reveal animations
+🎯 Better typography hierarchy and spacing
+💫 More polished buttons and interaction states
+📊 More visual separation between sections
+🌅 Enhanced contact-section visual treatment
