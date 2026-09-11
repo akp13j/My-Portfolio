@@ -1,25 +1,14 @@
-# Aung Kyaw Phyo — Portfolio
+# My Portfolio
 
-A responsive, single-page portfolio built with semantic HTML, modern CSS and vanilla JavaScript.
+A polished, responsive personal portfolio for Aung Kyaw Phyo.
 
 ## Included
-
-- Responsive desktop/mobile layout
-- About, experience, selected work, skills and contact sections
-- Scroll progress indicator
-- Intersection-based reveal animations
+- Responsive portfolio UI
+- Hero, About, Experience, Work, Skills and Contact sections
+- Animated reveal interactions
 - Mobile navigation
-- Accessible reduced-motion fallback
-- GitHub Pages-ready static structure
+- Scroll progress indicator
+- Featured Interactive Data Studio Training project
 
-## Personalization
-
-Replace the placeholder experience entries and project cards in `index.html` with verified career history and work. The site currently includes the Interactive Data Studio Training concept as a featured project based on the portfolio brief.
-
-## Run locally
-
-Open `index.html` in a browser, or serve the folder with any static web server.
-
-## Deploy
-
-Enable GitHub Pages for the repository and use the `main` branch as the deployment source.
+## Customize
+Replace the placeholder career history and project cards with verified details before publishing as a professional profile.
